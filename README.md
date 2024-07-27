@@ -1,16 +1,23 @@
-## Hi there 👋
+### Hi there 👋! My name is Adrian! I am a Data Science student at the University of California, Berkeley!
 
-<!--
-**adrimagana/adrimagana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```java
+package aboutMe;
 
-Here are some ideas to get you started:
+public class Adrian extends HumanBeing {
+  public Adrian() {
+    String fullName = "Adrian Magaña";
+    String homeTown = "Redwood City, CA";
+    String school = "UC Berkeley";
+    int expGraduation = 2026;
+    String[] interestAreas = {
+      "Backend Engineering",
+      "Machine Learning",
+      "Data Science"
+    };
+  }
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  public static void contact() {
+    Email email = new Email("adrianmagana@berkeley.edu");
+  }
+}
+```
