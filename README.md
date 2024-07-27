@@ -1,4 +1,4 @@
-### Hi there 👋! My name is Adrian! I am a Data Science student at the University of California, Berkeley!
+### Hi! My name is Adrian! I am a Data Science student at the University of California, Berkeley!
 
 ```java
 package aboutMe;
