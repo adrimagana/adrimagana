@@ -5,7 +5,7 @@ package aboutMe;
 
 public class Adrian extends HumanBeing {
   public Adrian() {
-    String fullName = "Adrian Magaña";
+    String fullName = "Adrian Magaña Chavez";
     String homeTown = "Redwood City, CA";
     String school = "UC Berkeley";
     int expGraduation = 2026;
